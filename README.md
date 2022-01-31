@@ -21,5 +21,6 @@ For this program, in order to run the app locally you will need node.js (on your
 
 ## Usage
 
-This app is used to take and save notes for future use. First name your note, then fill in the details in the space below. Once finished you hit the save icon on the top left and the note will be saved on the left side of your screen. If you want to create a new note, hit the plus sign at the top right and a fresh window will appear in the middle of your screen. If you want to veiw a old note you can click any note that appears on the left side of your screen and it will populate in the middle of your screen.
+This app is used to take and save notes for future use. As seen below you first name your note, then fill in the details in the space below. Once finished you hit the save icon on the top left and the note will be saved on the left side of your screen. If you want to create a new note, hit the plus sign at the top right and a fresh window will appear in the middle of your screen. If you want to veiw a old note you can click any note that appears on the left side of your screen and it will populate in the middle of your screen.
 
+Image of the deployed app ![Screenshot](./Develop/public/assets/img/express-noted.jpg)
